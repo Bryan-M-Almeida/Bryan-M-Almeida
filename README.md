@@ -9,7 +9,7 @@
 
 ### 🚀 Sobre mim
 
-- 🎯 Buscando ser full-stack, mas ainda domando o JavaScript.
+- 🎯 Buscando ser full-stack, mas ainda domando o Front.
 - 💻 HTML e CSS.
 - 📍 Rosário, Argentina 🇦🇷
 
@@ -19,8 +19,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML5-e34c26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-f7df1e?style=flat&logo=javascript&logoColor=black)![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -45,6 +44,7 @@
 
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/bryan_maciel_dev)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/bryan-maciel-de-almeida-4705942b9)
+
 
 ---
 
