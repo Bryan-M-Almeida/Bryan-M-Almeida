@@ -1,22 +1,22 @@
-<h1 align="center">Bryan | Desenvolvedor Front-end</h1>
+<h1 align="center">Bryan | Desenvolvedor Front-end com foco em Full Stack</h1>
 
 <p align="center">
-  Desenvolvedor focado em Front-end com conhecimentos em Back-end e constante evolução em tecnologias modernas. <br/>
-  Comprometido com boas práticas, performance e escalabilidade.
+  Focado no desenvolvimento Front-end com domínio crescente em Back-end moderno. <br/>
+  Comprometido com performance, boas práticas, acessibilidade e escalabilidade.
 </p>
 
 ---
 
-### 💼 Sobre mim
+### 🧠 Sobre mim
 
-- 🌍 Localização: Rosário, Argentina
-- 🎓 Estudante e praticante autodidata de desenvolvimento web
-- 🧠 Aprimorando habilidades em JavaScript, frameworks modernos e segurança
-- 🔍 Interesse por performance, acessibilidade e integração entre front-end e back-end
+- 🌎 Rosário, Argentina
+- 👨‍💻 Estudante de desenvolvimento web com foco em projetos reais
+- 🔐 Aprofundando em JavaScript moderno, segurança, APIs e frameworks como React e Express
+- 🚀 Obcecado por performance, acessibilidade e integração entre front e back-end
 
 ---
 
-### 💡 Stack de Tecnologias
+### 🧰 Stack de Tecnologias
 
 <div align="center">
 
@@ -36,7 +36,7 @@
 
 ---
 
-### 📈 GitHub Analytics
+### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bryan-M-Almeida&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
@@ -45,20 +45,20 @@
 
 ---
 
-### 📌 Em Foco no Momento
+### 🎯 Em Foco Agora
 
-- Aprimoramento em JavaScript e lógica de programação
-- Construção de aplicações completas com React e Express
-- Domínio de conceitos de API REST, autenticação e boas práticas de código
-- Uso de ferramentas modernas de versionamento e automação
+- JavaScript e lógica
+- React + Express
+- Praticando REST com autenticação, rotas e segurança
+- Automatizando processos, otimizando código e dominando versionamento com Git
 
 ---
 
-### 📫 Contato Profissional
+### 📬 Contato Profissional
 
 - 📧 Email: **bryanmacieldealmeida06@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/bryan-maciel-de-almeida-4705942b9](https://linkedin.com/in/bryan-maciel-de-almeida-4705942b9)
+- 🔗 LinkedIn: [linkedin.com/in/bryan-maciel-de-almeida-4705942b9](https://linkedin.com/in/bryan-maciel-de-almeida-4705942b9)
 
 ---
 
-<p align="center"><i>“O profissional não é definido apenas pelo que sabe, mas pelo que está disposto a aprender.”</i></p>
+<p align="center"><i>“Errar faz parte. Persistir faz história.”</i></p>
