@@ -1,22 +1,28 @@
-<h1 align="center">Bryan | Desenvolvedor Front-end com foco em Full Stack</h1>
+<h1 align="center">Bryan Maciel - Night Dev</h1>
+
+<div align="center"><img src ='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJjYWkycXB4dGllNmhkemU2NnRwbWtlZGQ4em1wMHJxcHdyOHNvMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ZZwwcE4y0WxAWWyX6e/giphy.gif'></div>
 
 <p align="center">
-  Focado no desenvolvimento Front-end com domínio crescente em Back-end moderno. <br/>
-  Comprometido com performance, boas práticas, acessibilidade e escalabilidade.
+  By day, front. By night, back. Focused on being full-stack.
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### About me
+- Systems engineering student
+- Dev front-end
+- Freelancer in my spare time
+- Anime & DC lover
+- Gym rat
+- Obsessed with technology
+- Gamer
+- Soul's like lover
+- GOW it's my fav
 
-- 🌎 Rosário, Argentina
-- 👨‍💻 Estudante de desenvolvimento web com foco em projetos reais
-- 🔐 Aprofundando em JavaScript moderno, segurança, APIs e frameworks como React e Express
-- 🚀 Obcecado por performance, acessibilidade e integração entre front e back-end
 
 ---
 
-### 🧰 Stack de Tecnologias
+### technologies
 
 <div align="center">
 
@@ -25,18 +31,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 </div>
 
 ---
-
-### 📊 GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Bryan-M-Almeida&show_icons=true&theme=github_dark&hide_border=true" height="180"/>
@@ -45,20 +48,19 @@
 
 ---
 
-### 🎯 Em Foco Agora
+### Studying
 
-- JavaScript e lógica
-- React + Express
-- Praticando REST com autenticação, rotas e segurança
-- Automatizando processos, otimizando código e dominando versionamento com Git
+- React, Vue & Angular
+- SQL & PHP
+- Typescript & Javascript
+  
+---
+
+###  Contact
+
+-  Email: **bryanmacieldealmeida06@gmail.com**
+-  LinkedIn: [linkedin.com/in/bryan-maciel-de-almeida-4705942b9](https://linkedin.com/in/bryan-maciel-de-almeida-4705942b9)
 
 ---
 
-### 📬 Contato Profissional
-
-- 📧 Email: **bryanmacieldealmeida06@gmail.com**
-- 🔗 LinkedIn: [linkedin.com/in/bryan-maciel-de-almeida-4705942b9](https://linkedin.com/in/bryan-maciel-de-almeida-4705942b9)
-
----
-
-<p align="center"><i>“Errar faz parte. Persistir faz história.”</i></p>
+<p align="center"><i>Never standing still, constantly learning.</i></p>
