@@ -53,10 +53,19 @@
 - React, Vue & Angular
 - SQL & PHP
 - Typescript & Javascript
-  
+
+
+  <div align='center'>
+    <img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDkyMW9sajRncmd4NnR1aHV6NDltN241aXI4M29rNzNtbTNnYTNuOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif'>
+  </div>
 ---
 
 ###  Contact
+
+<div align='center'>
+  <img src ='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTFrenM5b3VtcjNhbjJ6Nnh0ajBkeWRtbWF3cGMxcThzd3czcnd3ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/kuuS6H5y4LAWs/giphy.gif'>
+</div>
+<br>
 
 -  Email: **bryanmacieldealmeida06@gmail.com**
 -  LinkedIn: [linkedin.com/in/bryan-maciel-de-almeida-4705942b9](https://linkedin.com/in/bryan-maciel-de-almeida-4705942b9)
