@@ -24,6 +24,16 @@ Right now, I'm looking for an opportunity to improve my programming skills and f
      I’ve got about 2 years of experience in front-end and some UX/UI stuff. I’m studying systems engineering right now, and yeah — my endgame is making games. For now, I’m sticking to the easier languages before jumping into the real game dev grind.
 </p>
 
+<h1 style="color:#5452ff;">My GitHub Insights</h1>
+
+<div align="center">
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryan-M-Almeida&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-M-Almeida&layout=compact&theme=tokyonight" />
+
+</div>
+
+
 <h1 style="color:#5452ff;">Hobbies</h1>
 
 <ul style="color:#c9e6ff;">
