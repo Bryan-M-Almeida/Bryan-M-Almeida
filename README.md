@@ -1,58 +1,43 @@
-<h1 style="color:#5452ff;">Bryan - The Night Dev</h1>
+# Bryan — The Night Dev
 
-<p style="color:#c9e6ff;">
-Hi, how're you? I'm Bryan, the dev.
-<br>
+Hi, how're you? I'm Bryan, the dev.  
 I'd like to tell you a few things about myself.
-</p>
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhubjQ1bm5iejZtZjcxMzdjYW82Z2Qwc2trdG5oanowY2xkdWthOSZlcP12MV9naWZzX3NlYXJjaCZjdD1n/ZZwwcE4y0WxAWWyX6e/giphy.gif"
-     alt="gif"
-     title="">
+![gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDhubjQ1bm5iejZtZjcxMzdjYW82Z2Qwc2trdG5oanowY2xkdWthOSZlcP12MV9naWZzX3NlYXJjaCZjdT1n/ZZwwcE4y0WxAWWyX6e/giphy.gif)
 
-<h1 style="color:#5452ff;">About me</h1>
+## About me
 
-<p style="color:#c9e6ff;">
 I'm a front-end developer with some back-end experience. I'm currently studying React, but I also have knowledge of SQL, PHP, Java, Python, and a general understanding of other languages.
-</p>
 
-<p style="color:#c9e6ff;">
 Right now, I'm looking for an opportunity to improve my programming skills and further enhance my knowledge. I've experience as a freelancer and have developed several projects, both personal and for courses or work.
-</p>
 
-<p style="color:#c9e6ff;">
-     I’ve got about 2 years of experience in front-end and some UX/UI stuff. I’m studying systems engineering right now, and yeah — my endgame is making games. For now, I’m sticking to the easier languages before jumping into the real game dev grind.
-</p>
+I’ve got about 2 years of experience in front-end and some UX/UI stuff. I’m studying systems engineering right now — my endgame is making games. For now, I’m sticking to easier languages before jumping into the real game dev grind.
 
-<h1 style="color:#5452ff;">My GitHub Insights</h1>
+# My GitHub Insights
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryan-M-Almeida&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-M-Almeida&layout=compact&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryan-M-Almeida&show_icons=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-M-Almeida&layout=compact&theme=tokyonight" />
 
 </div>
 
+# Hobbies
 
-<h1 style="color:#5452ff;">Hobbies</h1>
+- Games  
+- Animes  
+- Gym  
+- Night walk  
+- Muay Thay, Kickboxing & Taekwondo  
+- Code  
+- Study new things  
+- Freelancer in my spare time  
+- Read books, manga and comics  
 
-<ul style="color:#c9e6ff;">
-<li>Games</li>
-<li>Animes</li>
-<li>Gym</li>
-<li>Night walk</li>
-<li>Muay Thay, Kickboxing & Taekwondo</li>
-<li>Code</li>
-<li>Study new things</li>
-<li>Freelancer in my spare time</li>
-<li>Read books, manga and comics</li>
-</ul>
+# Tech stacks
 
-<h1 style="color:#5452ff;">Tech stacks</h1>
+<!-- badges -->
 
-<div style="text-align:center">
-
-<!-- badgets -->
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
@@ -81,67 +66,53 @@ Right now, I'm looking for an opportunity to improve my programming skills and f
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+# Skills
 
-</div>
+## Languages
+- English  
+- Portuguese  
+- Spanish  
 
-<h1 style="color:#5452ff;">Skills</h1>
+## Soft Skills
+- Proactivity  
+- Patience  
+- Critical thinking  
+- Strategic thinking  
+- Financial management  
+- Data management  
+- Resilience  
+- Innovation  
+- Teamwork  
+- Problem analysis and resolution  
+- Willing to learn everything  
 
-<h3 style="color:#5dade2;">Languages</h3>
-<ul style="color:#c9e6ff;">
-<li>English</li>
-<li>Portuguese</li>
-<li>Spanish</li>
-</ul>
+## Hard Skills
+- Javascript & Typescript  
+- Python  
+- Scrum  
+- Java  
+- Git & GitHub  
+- React  
+- SQL  
+- PHP  
+- Express  
+- Node.js  
+- HTML & CSS / SCSS  
+- Tailwind / Bootstrap  
+- AI (API or local implementations)  
+- Cloud (AWS, Google Cloud, Azure, Vercel, Railway, Render)  
+- Databases (PostgreSQL, MySQL, MongoDB, Firestore)  
+- Anydesk  
+- Excel, PowerPoint, Word, PDF & more  
+- Figma, Canva & more  
 
-<h3 style="color:#5dade2;">Soft Skills</h3>
-<ul style="color:#c9e6ff;">
-<li>Proactivity</li>
-<li>Patience</li>
-<li>Critical thinking</li>
-<li>Strategic thinking</li>
-<li>Financial management</li>
-<li>Data management</li>
-<li>Resilience</li>
-<li>Innovation</li>
-<li>Teamwork</li>
-<li>Problem analysis and resolution</li>
-<li>Willing to learn everything</li>
-</ul>
+# Contact
 
-<h3 style="color:#5dade2;">Hard Skills</h3>
-<ul style="color:#c9e6ff;">
-<li>Javascript & Typescript</li>
-<li>Python</li>
-<li>Scrum</li>
-<li>Java</li>
-<li>Git & Github</li>
-<li>React</li>
-<li>SQL</li>
-<li>PHP</li>
-<li>Express</li>
-<li>Node.js</li>
-<li>HTML & CSS / SCSS</li>
-<li>Tailwind / Bootstrap</li>
-<li>AI (API or local implementations)</li>
-<li>Cloud (AWS, Google Cloud, Azure, Vercel, Railway, Render)</li>
-<li>Databases (PostgreSQL, MySQL, MongoDB, Firestore)</li>
-<li>Anydesk</li>
-<li>Excel, PowerPoint, Word, PDF & more</li>
-<li>Figma, Canva & more</li>
-</ul>
-
-<h1 style="color:#5452ff;">Contact</h1>
-
-<p style="color:#c9e6ff;">
-     <a href="mailto:bryanmacieldealmeida06@gmail.com" style="color:#5dade2;">
-  bryanmacieldealmeida06@gmail.com
-</a>
-</p>
-
+**Email:**  
+[bryanmacieldealmeida06@gmail.com](mailto:bryanmacieldealmeida06@gmail.com)
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0xnightt)
 
-
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bryan_dev_front)
 
- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182)](https://linkedin.com/in/bryan-frontend-dev-4705942b9)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182)](https://linkedin.com/in/bryan-frontend-dev-4705942b9)
