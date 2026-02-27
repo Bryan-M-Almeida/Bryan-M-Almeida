@@ -13,14 +13,6 @@ Right now, I'm looking for an opportunity to improve my programming skills and f
 
 I’ve got about 2 years of experience in front-end and some UX/UI stuff. I’m studying systems engineering right now — my endgame is making games. For now, I’m sticking to easier languages before jumping into the real game dev grind.
 
-# My GitHub Insights
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bryan-M-Almeida&show_icons=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bryan-M-Almeida&layout=compact&theme=tokyonight" />
-
-</div>
 
 # Hobbies
 
@@ -35,8 +27,6 @@ I’ve got about 2 years of experience in front-end and some UX/UI stuff. I’m 
 - Read books, manga and comics  
 
 # Tech stacks
-
-<!-- badges -->
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -111,8 +101,6 @@ I’ve got about 2 years of experience in front-end and some UX/UI stuff. I’m 
 **Email:**  
 [bryanmacieldealmeida06@gmail.com](mailto:bryanmacieldealmeida06@gmail.com)
 
-[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/0xnightt)
-
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/bryan_dev_front)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bry.codes)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=004182)](https://linkedin.com/in/bryan-frontend-dev-4705942b9)
